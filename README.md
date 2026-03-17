@@ -50,9 +50,11 @@ File:
 
 1. Clone the repository
 
+git clone https://github.com/aad6383/StockMarketNewsSentimentAnalysis.git
+
 2. Open the notebook in Google Colab
 
-3. Run:
+3. Run each cell
 
 ---
 
